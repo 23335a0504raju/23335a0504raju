@@ -50,7 +50,7 @@
 
 👉 [Visit My Portfolio](https://portfolio-tau-two-aijzsctxqv.vercel.app/)  
 
-📄 [Download My Resume]([https://your-resume-link.com](https://drive.google.com/file/d/1QPVBfS4F7zafryItjK42oHis7QvPFfyG/view?usp=drive_link)) <!-- Replace with your actual resume link -->
+📄 [Download My Resume](https://drive.google.com/file/d/1QPVBfS4F7zafryItjK42oHis7QvPFfyG/view?usp=drive_link) <!-- Replace with your actual resume link -->
 
 ---
 
