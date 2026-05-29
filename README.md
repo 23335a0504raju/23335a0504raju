@@ -18,10 +18,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=23335a0504raju&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=22D3EE&icon_color=22D3EE&bg_color=1a1b27&hide_rank=false" alt="GitHub Stats"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=23335a0504raju&hide_border=true&theme=tokyonight&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&background=1a1b27&dates=22D3EE99&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dayLabels=22D3EE&stroke=22D3EE" alt="GitHub Streak"/>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=23335a0504raju&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=22D3EE&icon_color=22D3EE&bg_color=1a1b27&hide_rank=false" alt="GitHub Stats"/>
+    </td>
+    <td width="50%">
+      <img src="https://streak-stats.demolab.com?user=23335a0504raju&hide_border=true&theme=tokyonight&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&background=1a1b27&dates=22D3EE99&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dayLabels=22D3EE&stroke=22D3EE" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
