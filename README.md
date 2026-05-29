@@ -1,78 +1,156 @@
-# 👋 Hi, I'm Raju Chowdavada  
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Raju+Chowdavada;Full+Stack+Developer+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+AI;Cloud+%26+API+Enthusiast+%E2%80%A2+450%2B+DSA+Solved;Building+real-world+solutions+with+tech" alt="Typing SVG" />
+</h1>
 
-🚀 Passionate **Full Stack Developer** | 💻 Open Source Enthusiast | 📊 Data & AI Explorer  
+<p align="center">
+  <a href="https://raju-codes.me/"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/raju-chowdavada-06b734347"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/23335a0504raju"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/Raju_Ch8464/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://www.codechef.com/users/raju_ch"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="mailto:smilyraju8464@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
----
-
-## ✨ About Me  
-- 🎓 Computer Science & Engineering Student  
-- 💡 Interests: Full-Stack Development, Machine Learning, Cloud Computing  
-- 🌍 Building real-world solutions with tech  
-- 📫 Contact me: **smilyraju8464@gmail.com** | 📱 +91 6281924785 | 📍 Visakhapatnam, AP  
-
----
-
-## 🛠️ Technical Skills  
-
-- **Programming Languages**: Java, Python, JavaScript (ES6+), C/C++, SQL  
-- **Web Development**: HTML5, CSS3, React.js, Django REST Framework, Bootstrap, Material UI  
-- **Databases**: MySQL, PostgreSQL  
-- **Tools & Platforms**: Git, GitHub, Docker, Vercel, Render, XAMPP, Cisco Packet Tracer  
-- **Additional Skills**: Data Structures & Algorithms, Cloud Computing (AWS), Machine Learning (basic), Automation (n8n)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=23335a0504raju&label=Profile%20Views&color=22D3EE&style=flat-square" alt="Profile Views"/>
+</p>
 
 ---
 
-## 🏅 Certifications  
+## 👨‍💻 About Me
 
-- Python Essentials 1 & 2 (Cisco)  
-- CCNA Networking & Cybersecurity (Cisco)  
-- NPTEL – Cloud Computing (84%)  
-- AWS Solutions Architecture Virtual Experience (Forage)  
-- Deloitte Job Simulations (Technology + Data Analytics)  
-- GitHub Copilot Course  
-- Digital Business Skills (HP) – AI, Agile, CX, Data Science  
-- Professional Development (HP) – Resume Writing, Leadership, Job Interviewing  
+```yaml
+name:        "Raju Chowdavada"
+role:        "Software Engineer | Full Stack Developer"
+location:    "Visakhapatnam, Andhra Pradesh, India 🇮🇳"
+education:   "B.Tech CSE @ MVGR College of Engineering (CGPA 8.31)"
+focus:       ["Full-Stack Web", "Cloud Computing", "Machine Learning"]
+currently:   "Full-Stack Developer Intern @ Spotmies"
+fun_fact:    "Shipped 6+ production systems on AWS, Vercel & Render"
+motto:       "Innovation distinguishes between a leader and a follower."
+```
 
----
-
-## 🏆 Achievements  
-
-- 🚀 Built and deployed **multiple full-stack applications** (React + Django REST) during internships  
-- ☁️ Designed **scalable hosting architecture on AWS Elastic Beanstalk**, reducing cost and response time  
-- 🏅 Led a 4-member team in a **hackathon** → built a production-ready blog platform in 24 hours  
-- 📲 Integrated **Twilio API** for real-time alerts (500+ active users)  
-- 🧮 Solved **450+ problems** on LeetCode/HackerRank, strengthening DSA and system design knowledge  
-- 🤝 Contributed to **open-source React/Django repositories**  
+- 🎓 Computer Science & Engineering student, graduating **May 2026**
+- 🚀 **2+ years** of internship experience building full-stack web applications
+- ☁️ Deployed **6+ production-grade systems** on AWS, Vercel & Render
+- ⚡ Optimized API response times by **25%** via query optimization & caching
+- 🧮 Solved **450+ DSA problems** across LeetCode & CodeChef
+- 🤝 Open-source contributor to React/Django repositories
 
 ---
 
-## 🌐 Portfolio  
+## 🛠️ Tech Stack
 
-👉 [Visit My Portfolio](https://portfolio-tau-two-aijzsctxqv.vercel.app/)  
-
-📄 [Download My Resume](https://drive.google.com/file/d/1QPVBfS4F7zafryItjK42oHis7QvPFfyG/view?usp=drive_link) <!-- Replace with your actual resume link -->
+<table>
+  <tr>
+    <td align="center"><b>Core & Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,html,css,bootstrap" alt="frontend"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend & Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,php,mysql,postgres,mongodb" alt="backend"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Languages & Concepts</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,c,cpp,python" alt="languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud & Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel" alt="cloud"/>
+      &nbsp;<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="render"/>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="rest"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔗 Connect With Me  
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raju-chowdavada-06b734347/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/23335a0504raju)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Raju_Ch8464/)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/raju_ch)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lovely__raju_/)  
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=23335a0504raju&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=22D3EE&icon_color=22D3EE" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=23335a0504raju&hide_border=true&theme=tokyonight&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23335a0504raju&layout=compact&hide_border=true&theme=tokyonight&title_color=22D3EE" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=23335a0504raju&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+</p>
 
 ---
 
-## ⚡ GitHub Stats  
+## 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=23335a0504raju&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23335a0504raju&layout=compact&theme=tokyonight)  
+| Project | Description | Live |
+|---|---|---|
+| **🚦 Intelligent Traffic Management** | AI-powered traffic system analyzing real-time CCTV & sensor data to optimize urban flow and cut congestion. | [Demo](https://smartway-traffic.vercel.app/) |
+| **🎓 Campus Colab** | Scalable collaborative platform serving **60+ users** — real-time chat, event sharing & role-based access control. | [Demo](https://campus-colab.vercel.app/) |
+| **📦 Smart Stock Management** | Automated inventory system for **500+ products** with demand forecasting to reduce manual entry errors. | [Demo](https://inventory-pi-smoky.vercel.app/) |
+| **💪 Fitness Tracker** | Health monitoring app processing **1,000+ activity logs** with wearable integration for personalized insights. | [Demo](https://naga.pythonanywhere.com/) |
+
+> 📌 More projects pinned on my profile and showcased at **[raju-codes.me](https://raju-codes.me/)**
 
 ---
 
-## 💡 Personal Motto  
+## 💼 Experience
 
-*"Innovation distinguishes between a leader and a follower. I aim to build solutions that matter."*  
+**Full-Stack Developer Intern** — *Spotmies* &nbsp;`Dec 2025 – Jun 2026`
+- Engineered full-stack apps with **React.js + Node.js**, delivering end-to-end functionality.
+- Architected robust backend APIs & dynamic frontends with cross-platform compatibility.
+- Executed stable production deployments on **Vercel & Render**, minimizing downtime.
 
-💬 **Let's build something amazing together!**  
+**Frontend Development Intern** — *Pit Solutions* &nbsp;`Dec 2022 – May 2023`
+- Built responsive client-facing dashboards using **HTML, CSS, JavaScript**.
+- Collaborated in **Agile sprints**, delivering features ahead of deadlines.
+- Improved interface performance & end-user navigation experience.
+
+---
+
+## 🏅 Certifications
+
+- **Wipro** — Java Full Stack Developer (2025)
+- **HP** — Digital Business Skills (2025)
+- **Tata iQ** — GenAI Data Analytics Simulation (2025)
+- **Forage** — AWS Solutions Architecture: Cloud Design & Deployment (2024)
+- **NPTEL** — Cloud Computing: Distributed Systems & Reliability — *84%* (2024)
+- **Cisco** — Python Essentials 1 & 2 (2024)
+
+---
+
+## 🏆 Achievements
+
+- 🚀 Engineered & deployed **6+ full-stack applications** across AWS, Vercel & Render.
+- ⚡ Optimized API response times by **25%** via query optimization & caching.
+- 🤖 Designed a stock prediction system using **TensorFlow.js** for automated reordering.
+- 🧮 Solved **450+ algorithmic problems** on LeetCode & CodeChef.
+- 🥇 **Hackathon Finalist** — built a functional blogging platform in a 24-hour sprint.
+
+---
+
+## 🎓 Education
+
+| Institution | Qualification | Duration | Score |
+|---|---|---|---|
+| **MVGR College of Engineering**, Vizianagaram | B.Tech, Computer Science & Engineering | 2023 – 2026 | CGPA 8.31/10 |
+| **Government Polytechnic**, Anakapalli | Diploma in Computer Engineering | 2020 – 2023 | 83% |
+
+---
+
+<p align="center">
+  <i>"I aim to build solutions that matter. Let's build something amazing together!"</i>
+</p>
+
+<p align="center">
+  <a href="https://raju-codes.me/"><img src="https://img.shields.io/badge/Visit_My_Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
