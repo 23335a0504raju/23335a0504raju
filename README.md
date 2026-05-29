@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Raju+Chowdavada;Full+Stack+Developer+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+AI;Cloud+%26+API+Enthusiast+%E2%80%A2+450%2B+DSA+Solved;Building+real-world+solutions+with+tech" alt="Typing SVG" />
-</h1>
+# Raju Chowdavada 👋
+
+### Full Stack Developer • React • Python • AI
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=22D3EE&vCenter=true&width=600&lines=Cloud+%26+API+Enthusiast+%E2%80%A2+450%2B+DSA+Solved;Building+real-world+solutions+with+tech;Shipped+6%2B+production+systems" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://raju-codes.me/"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
