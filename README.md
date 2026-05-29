@@ -4,18 +4,54 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=22D3EE&vCenter=true&width=600&lines=Cloud+%26+API+Enthusiast+%E2%80%A2+450%2B+DSA+Solved;Building+real-world+solutions+with+tech;Shipped+6%2B+production+systems" alt="Typing SVG" />
 
-<p align="center">
+<p>
   <a href="https://raju-codes.me/"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/raju-chowdavada-06b734347"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/23335a0504raju"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://leetcode.com/u/Raju_Ch8464/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
   <a href="https://www.codechef.com/users/raju_ch"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
   <a href="mailto:smilyraju8464@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=23335a0504raju&label=Profile%20Views&color=22D3EE&style=for-the-badge" alt="Profile Views"/>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=23335a0504raju&label=Profile%20Views&color=22D3EE&style=flat-square" alt="Profile Views"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=23335a0504raju&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=22D3EE&icon_color=22D3EE&bg_color=1a1b27&hide_rank=false" alt="GitHub Stats"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=23335a0504raju&hide_border=true&theme=tokyonight&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&background=1a1b27&dates=22D3EE99&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dayLabels=22D3EE&stroke=22D3EE" alt="GitHub Streak"/>
 </p>
+
+---
+
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><b>Core &amp; Frontend</b></td>
+    <td align="center" width="33%"><b>Backend &amp; Databases</b></td>
+    <td align="center" width="33%"><b>Cloud &amp; Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,html,css,bootstrap" alt="frontend"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python,django,nodejs,express,php,mysql,postgres,mongodb" alt="backend"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel" alt="cloud"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Languages &amp; Concepts</b></td>
+    <td align="center" colspan="2"><b>Extras</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java,c,cpp,python" alt="languages"/></td>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="render"/>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+      <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="rest"/>
+      <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tfjs"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -41,68 +77,6 @@ motto:       "Innovation distinguishes between a leader and a follower."
 
 ---
 
-## 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td align="center"><b>Core & Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,html,css,bootstrap" alt="frontend"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend & Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,php,mysql,postgres,mongodb" alt="backend"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Languages & Concepts</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=java,c,cpp,python" alt="languages"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Cloud & Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel" alt="cloud"/>
-      &nbsp;<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="render"/>
-      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
-      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="rest"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=23335a0504raju&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=22D3EE&icon_color=22D3EE&bg_color=1a1b27&hide_rank=false" alt="GitHub Stats"/>
-  <img height="195px" src="https://streak-stats.demolab.com?user=23335a0504raju&hide_border=true&theme=tokyonight&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&background=1a1b27&dates=22D3EE99&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dayLabels=22D3EE&stroke=22D3EE" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=23335a0504raju&layout=compact&hide_border=true&theme=tokyonight&title_color=22D3EE&bg_color=1a1b27&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=23335a0504raju&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies"/>
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=23335a0504raju&theme=tokyo-night&bg_color=1a1b27&color=22D3EE&line=22D3EE&point=ffffff&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
-
-<!-- Contribution snake animation. Requires the snake GitHub Action set up in your profile repo (see note below). -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/23335a0504raju/23335a0504raju/output/snake.svg" alt="Snake animation"/>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Live |
@@ -112,7 +86,28 @@ motto:       "Innovation distinguishes between a leader and a follower."
 | **📦 Smart Stock Management** | Automated inventory system for **500+ products** with demand forecasting to reduce manual entry errors. | [Demo](https://inventory-pi-smoky.vercel.app/) |
 | **💪 Fitness Tracker** | Health monitoring app processing **1,000+ activity logs** with wearable integration for personalized insights. | [Demo](https://naga.pythonanywhere.com/) |
 
-> 📌 More projects pinned on my profile and showcased at **[raju-codes.me](https://raju-codes.me/)**
+> 📌 More projects pinned below and showcased at **[raju-codes.me](https://raju-codes.me/)**
+
+---
+
+## 📈 Top Languages & Trophies
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=23335a0504raju&layout=compact&hide_border=true&theme=tokyonight&title_color=22D3EE&bg_color=1a1b27&langs_count=8" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=23335a0504raju&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=23335a0504raju&theme=tokyo-night&bg_color=1a1b27&color=22D3EE&line=22D3EE&point=ffffff&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
+
+<!-- Snake animation: needs the snake GitHub Action set up (see note in chat). -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/23335a0504raju/23335a0504raju/output/snake.svg" alt="Snake animation"/>
+</p>
 
 ---
 
