@@ -76,16 +76,27 @@ motto:       "Innovation distinguishes between a leader and a follower."
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=23335a0504raju&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=22D3EE&icon_color=22D3EE" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=23335a0504raju&hide_border=true&theme=tokyonight&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=23335a0504raju&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=22D3EE&icon_color=22D3EE&bg_color=1a1b27" alt="GitHub Stats"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=23335a0504raju&hide_border=true&theme=tokyonight&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&background=1a1b27" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23335a0504raju&layout=compact&hide_border=true&theme=tokyonight&title_color=22D3EE" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=23335a0504raju&layout=compact&hide_border=true&theme=tokyonight&title_color=22D3EE&bg_color=1a1b27&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=23335a0504raju&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=23335a0504raju&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies"/>
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=23335a0504raju&theme=tokyo-night&bg_color=1a1b27&color=22D3EE&line=22D3EE&point=ffffff&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
+
+<!-- Contribution snake animation. Requires the snake GitHub Action set up in your profile repo (see note below). -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/23335a0504raju/23335a0504raju/output/snake.svg" alt="Snake animation"/>
 </p>
 
 ---
