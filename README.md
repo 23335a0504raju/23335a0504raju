@@ -20,21 +20,11 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="light_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dark_mode.svg" />
-  <img alt="23335a0504raju's GitHub profile" src="light_mode.svg" width="90%" />
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="23335a0504raju's GitHub profile" src="dark_mode.svg" width="90%" />
 </picture>
 </p>
-
-<details align="center">
-  <summary><b>🌗 Switch theme</b></summary>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-    <img alt="23335a0504raju's GitHub profile (alternate theme)" src="dark_mode.svg" width="90%" />
-  </picture>
-</details>
 
 <p align="center">
   <a href="dark_mode.svg"><img src="https://img.shields.io/badge/🌙_Dark_Card-0d1117?style=for-the-badge" alt="Dark card"/></a>
