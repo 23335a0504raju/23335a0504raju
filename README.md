@@ -16,18 +16,38 @@
 
 ---
 
+## 🖥️ ASCII Profile Card
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="light_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dark_mode.svg" />
+  <img alt="23335a0504raju's GitHub profile" src="light_mode.svg" width="90%" />
+</picture>
+</p>
+
+<details align="center">
+  <summary><b>🌗 Switch theme</b></summary>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+    <img alt="23335a0504raju's GitHub profile (alternate theme)" src="dark_mode.svg" width="90%" />
+  </picture>
+</details>
+
+<p align="center">
+  <a href="dark_mode.svg"><img src="https://img.shields.io/badge/🌙_Dark_Card-0d1117?style=for-the-badge" alt="Dark card"/></a>
+  <a href="light_mode.svg"><img src="https://img.shields.io/badge/☀️_Light_Card-ffffff?style=for-the-badge&labelColor=ffffff" alt="Light card"/></a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=23335a0504raju&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=22D3EE&icon_color=22D3EE&bg_color=1a1b27&hide_rank=false" alt="GitHub Stats"/>
-    </td>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=23335a0504raju&hide_border=true&theme=tokyonight&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&background=1a1b27&dates=22D3EE99&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dayLabels=22D3EE&stroke=22D3EE" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=23335a0504raju&hide_border=true&theme=tokyonight&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&background=1a1b27&dates=22D3EE99&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dayLabels=22D3EE&stroke=22D3EE" alt="GitHub Streak"/>
+</p>
 
 ---
 
@@ -96,11 +116,7 @@ motto:       "Innovation distinguishes between a leader and a follower."
 
 ---
 
-## 📈 Top Languages & Trophies
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=23335a0504raju&layout=compact&hide_border=true&theme=tokyonight&title_color=22D3EE&bg_color=1a1b27&langs_count=8" alt="Top Languages"/>
-</p>
+## 📈 Trophies & Activity
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=23335a0504raju&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies"/>
